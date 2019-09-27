@@ -19,3 +19,5 @@ master02
 
 j account 1
 b account 1
+
+测试中文显示
