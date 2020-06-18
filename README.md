@@ -29,6 +29,6 @@
 ###### test6
 test6
 
-test for c++developer users
+test for developer users
 > 一盏灯，*一片黄昏*，**一杯茶**
 >![](https://static.pandateacher.com/7b5d6d8d9dea5691705d04fef2306b52.png)
