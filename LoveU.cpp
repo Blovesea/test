@@ -13,7 +13,7 @@ int main()
     using std::endl;
     char szRec[256] = {0};
 
-    cout << "ÇëÊäÈëÒ»¾ä»°:" << endl;
+    cout << "è¯·è¾“å…¥ä¸€å¥è¯:" << endl;
     //gets_s(szRec, sizeof(szRec));
     gets(szRec);
 
